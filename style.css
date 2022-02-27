@@ -1,0 +1,32 @@
+.body-container{
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 0%;
+}
+.link{
+    text-decoration: none;    
+}
+.button{
+    background-color: #f496d217;    border: none;
+}
+.highlight{
+    background-color: #3F87F5;
+    color: white;
+    border-radius: 5% ;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.733);
+}
+.img{
+    display: block;
+    margin: 0 auto;
+}
+.hover:hover{
+    background-color: rgb(212, 211, 211) !important;
+}
+.footer-container{
+    margin-top: 2%;
+    margin-bottom: 0%;
+    padding: 5%;
+    background-color: #0B0D17;
+    color: #A6A6A6; 
+}
